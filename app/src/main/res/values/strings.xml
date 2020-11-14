@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Photo Station</string>
+    <string name="new_order">New Order</string>
+    <string name="all_orders">All Orders</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+</resources>

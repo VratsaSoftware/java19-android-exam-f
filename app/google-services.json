@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "22814597940",
+    "firebase_url": "https://vsc-android-exam-2020.firebaseio.com",
+    "project_id": "vsc-android-exam-2020",
+    "storage_bucket": "vsc-android-exam-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22814597940:android:84f6db8d27d0ab80e6fb61",
+        "android_client_info": {
+          "package_name": "com.vsc.androidexam2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22814597940-f4fe1638l0rro0feiqmec83t1l9rnftg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vsc.androidexam2020",
+            "certificate_hash": "96a38b45d9a590ce7de0394fd2f32ff908fcadcd"
+          }
+        },
+        {
+          "client_id": "22814597940-8ss7crcb56ra579mojkrvbvq38ejm8if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyP1Gb5_vwrgLqH5uU6Ko_BTr8V9r1gRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22814597940-8ss7crcb56ra579mojkrvbvq38ejm8if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
