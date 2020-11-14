@@ -32,7 +32,7 @@
 Използвайте DataBinding за взимани и манипулиране на view-та.
 
 ##### 4.
-Довършете layout-a на NewOrderFragment, така че да изглежда [така](https://github.com/VratsaSoftware/java19-android-exam/tree/main/screenshots). Само секция 3 липсва, секция 2 е невидима.
+Довършете layout-a на NewOrderFragment, така че да изглежда [така](https://github.com/VratsaSoftware/java19-android-exam-f/tree/main/screenshots). Само секция 3 липсва, секция 2 е невидима.
 Може да на правите видима като на view с ID: grpPart2, се промени атрибута android:visibility да е "visible", а не "gone".
 
 ##### 5.
